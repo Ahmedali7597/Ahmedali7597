@@ -6,14 +6,14 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedali.mohamed7597@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://github.com/Ahmedali7597/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://ahmedali7597.github.io/Portfolio/)
 
 </div>
 
 ---
 
 I build tools that solve real problems and games that create experiences.  
-My work spans browser automation in Python, game development in C#, and full-stack web projects.
+My work spans browser automation in Python, game development in C#, and full-stack web development.
 
 **Currently working on:** An automated job application bot — targets remote tech roles and local positions, with Workday form automation built in.
 
@@ -21,16 +21,23 @@ My work spans browser automation in Python, game development in C#, and full-sta
 
 ### Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Languages**
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,cs,swift,js,php,html,css" />
+</p>
+
+**Frameworks &amp; Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,laravel,wordpress,mysql" />
+</p>
+
+**Tools &amp; Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,selenium,git,vscode,visualstudio,idea,raspberrypi,androidstudio" />
+</p>
 
 ---
 
@@ -47,6 +54,8 @@ My work spans browser automation in Python, game development in C#, and full-sta
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedali7597&show_icons=true&theme=dark&hide_border=true&count_private=true" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedali7597&layout=compact&theme=dark&hide_border=true" height="155" />
+  <img src="https://streak-stats.demolab.com/?user=Ahmedali7597&theme=dark&hide_border=true" height="155" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedali7597&layout=compact&theme=dark&hide_border=true&langs_count=8" height="155" />
 </p>
