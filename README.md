@@ -11,8 +11,6 @@ I build full-stack web applications and games, with a background in Software Dev
 | Project | About | Built with |
 | --- | --- | --- |
 | [Tap to Trade](https://ahmedali7597.github.io/Portfolio/#case-tt) | My final-year capstone: a marketplace for local Magic: The Gathering players to share inventories, find cards and arrange trades. | Node.js, Express, PostgreSQL, Jest, Cypress |
-| [Emotional Garden](https://ahmedali7597.github.io/Portfolio/#case-eg) | A collaborative game exploring emotions through interactive environments, with a gameplay recording in my portfolio. | Unity, C# |
-| [Cosmic Perfection](https://ahmedali7597.github.io/Portfolio/#case-cp) | A space game built around piloting a small ship, timing and control. Watch the gameplay recording in my portfolio. | Unity, C# |
 | [My portfolio](https://github.com/Ahmedali7597/Portfolio) | A 1950s newspaper-inspired site with light and dark editions, interactive stories and an opening issue of The Daily Mystery. | HTML, CSS, JavaScript |
 
 ## Tools I work with
