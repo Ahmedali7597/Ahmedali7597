@@ -22,6 +22,6 @@ I build full-stack web applications and games, with a background in Software Dev
 
 ## Away from the keyboard
 
-Coffee, video games, true crime, puzzles and Magic: The Gathering keep my curiosity busy. I also enjoy telling stories through photos and film.
+Coffee, video games, true crime, puzzles and MTG
 
 For project questions or collaboration, [send me a note](mailto:ahmedali.mohamed7597@gmail.com).
